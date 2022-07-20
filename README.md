@@ -11,6 +11,10 @@ You can clone the project from GitHub by copying either HTTPS or SSH link or by 
 
 ## Usage
 In command Prompt go to the root directory and type the command npm start. The next step is to go to insomnia to run the app.
+
+## Screenshot
+![Screenshot]
+![INSOMNIA](insomnia.jpg)
   
 
 ## Contribution
