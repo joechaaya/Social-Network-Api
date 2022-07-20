@@ -18,4 +18,7 @@ In command Prompt go to the root directory and type the command npm start. The n
   
 
 ## Contribution
-Made by Joe Chaaya
+Made by Joe Chaaya[Social Network API.webm]
+
+## WALKTHROUGH VIDEO
+(https://user-images.githubusercontent.com/99142621/179874219-805a3a44-ac01-4275-9bf6-d65ff43d2c9c.webm)
